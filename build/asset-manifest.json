@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/amber/static/js/main.836eaa64.chunk.js",
+    "main.js.map": "/amber/static/js/main.836eaa64.chunk.js.map",
+    "runtime-main.js": "/amber/static/js/runtime-main.b92e23e6.js",
+    "runtime-main.js.map": "/amber/static/js/runtime-main.b92e23e6.js.map",
+    "static/js/2.ea7fee39.chunk.js": "/amber/static/js/2.ea7fee39.chunk.js",
+    "static/js/2.ea7fee39.chunk.js.map": "/amber/static/js/2.ea7fee39.chunk.js.map",
+    "static/js/3.dea65941.chunk.js": "/amber/static/js/3.dea65941.chunk.js",
+    "static/js/3.dea65941.chunk.js.map": "/amber/static/js/3.dea65941.chunk.js.map",
+    "index.html": "/amber/index.html",
+    "static/js/2.ea7fee39.chunk.js.LICENSE.txt": "/amber/static/js/2.ea7fee39.chunk.js.LICENSE.txt",
+    "static/media/pizza-3.ea3065a0.jpeg": "/amber/static/media/pizza-3.ea3065a0.jpeg",
+    "static/media/product-2.dff0fa2d.jpeg": "/amber/static/media/product-2.dff0fa2d.jpeg",
+    "static/media/product-3.3b754614.jpeg": "/amber/static/media/product-3.3b754614.jpeg",
+    "static/media/sweet-2.64f81ffc.jpeg": "/amber/static/media/sweet-2.64f81ffc.jpeg",
+    "static/media/sweet3.0d77a264.jpg": "/amber/static/media/sweet3.0d77a264.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b92e23e6.js",
+    "static/js/2.ea7fee39.chunk.js",
+    "static/js/main.836eaa64.chunk.js"
+  ]
+}
