@@ -9,28 +9,28 @@ export const productData = [
   {
     img: product1,
     alt: 'Pizza',
-    name: 'Supreme Pizza',
+    name: 'White Amber',
     desc:
-      'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$19.99',
+      'Amber, basil,Red Rose,Vanilla,natural alcohol :ethye alcohol ,  natural antioxidant :StopPox,glycerine oil',
+    price: '250 Dh',
     button: 'Add to Cart'
   },
   {
     img: product2,
     alt: 'Pizza',
-    name: 'Hawaiian Paradise',
+    name: 'Amber',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$16.99',
+      ' Amber, Red Rose,Vanilla,natural alcohol:ethe alcohol,natural antioxidant :StopPox, and pesto , glycerine oil',
+    price: '200 Dh',
     button: 'Add to Cart'
   },
   {
     img: product3,
     alt: 'Pizza',
-    name: 'Veggie Overload',
+    name: 'Amber oud',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$14.99',
+      ' Amber ,Oud, Benzoin , natural alcohol:ethe alcohol,natural antioxidant :StopPox, and pesto , glycerine oil',
+    price: '250 DH',
     button: 'Add to Cart'
   }
 ];
@@ -39,20 +39,20 @@ export const productDataTwo = [
   {
     img: sweet2,
     alt: 'Donuts',
-    name: 'Doughlicious',
+    name: 'Amber wood',
     desc:
-      'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
-    price: '$9.99',
+      'Amber , Oud, Wood',
+    price: '250 DH',
     button: 'Add to Cart'
   },
  
   {
     img: sweet1,
     alt: 'Brownie',
-    name: 'Brownie Bunch',
+    name: 'Midnight Amber',
     desc:
-      'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
-    price: '$9.99',
+      'Amber , Red Rose, Vanilla,  natural alcohol:ethe alcohol,natural antioxidant :StopPox, and pesto , glycerine oil',
+    price: '250 DH',
     button: 'Add to Cart'
   }
 ];

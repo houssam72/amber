@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    // rca
+    
     <Router>
       <GlobalStyle />
       <Hero />

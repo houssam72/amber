@@ -23,7 +23,7 @@ const Hero = () => {
       <Sidebar isOpen={isOpen} toggle={toggle} />
       <HeroContent>
         <HeroItems>
-          <HeroH1>Greatest SCENT Ever</HeroH1>
+          <HeroH1>SMEEL GOOD FEEL GOOD</HeroH1>
           <HeroP>Ready in 60 seconds</HeroP>
           <HeroBtn>Place Order</HeroBtn>
         </HeroItems>
